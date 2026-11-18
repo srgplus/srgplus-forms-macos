@@ -6,6 +6,18 @@
     <description>Updates of SRG+ Forms for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.2.2 (202611182128)</title>
+      <pubDate>Wed, 18 Nov 2026 21:30:11 +0000</pubDate>
+      <sparkle:version>202611182128</sparkle:version>
+      <sparkle:shortVersionString>0.1.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Updates install by themselves.** The app checks every hour and installs a new version when you quit it. Opened from the disk image or Downloads, it first offers to move itself into Applications, where updates can reach it.
+- A partner sees a client's Forms only while the client shares Forms in SRG+ Connect.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-forms-macos/releases/latest/download/SRG-Plus-Forms.dmg" type="application/octet-stream" sparkle:edSignature="US4Dn3PDTTsivdEmMB6hebvHMcxswGMsTC+/sIWXFKU87/kXmzs8JMP1VYBWm7xRQK6QcYK8D9RSZ5r6gbnfDA==" length="8083960" />
+    </item>
+    <item>
       <title>0.1.2.1 (202611162301)</title>
       <pubDate>Mon, 16 Nov 2026 23:04:08 +0000</pubDate>
       <sparkle:version>202611162301</sparkle:version>
