@@ -6,6 +6,17 @@
     <description>Updates of SRG+ Forms for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.2.4 (202611211019)</title>
+      <pubDate>Sat, 21 Nov 2026 10:24:01 +0000</pubDate>
+      <sparkle:version>202611211019</sparkle:version>
+      <sparkle:shortVersionString>0.1.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- **Workspace pictures in the menu.** Every workspace shows its picture (its logo from SRG+ Connect) in the workspace menu and on top of the sidebar. A workspace with no picture shows its initial.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-forms-macos/releases/latest/download/SRG-Plus-Forms.dmg" type="application/octet-stream" sparkle:edSignature="cdu6vxEpkw/nMt6tAeaL+uE7mxqCMYxJEJdxEBdWQRg3VhTBJUh/94ZMkRq4TXKbflaoBB2wz8A81QhhB341AA==" length="8165610" />
+    </item>
+    <item>
       <title>0.1.2.3 (202611200539)</title>
       <pubDate>Fri, 20 Nov 2026 05:41:57 +0000</pubDate>
       <sparkle:version>202611200539</sparkle:version>
