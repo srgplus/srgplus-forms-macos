@@ -6,6 +6,20 @@
     <description>Updates of SRG+ Forms for Mac, downloaded outside the App Store.</description>
     <language>en</language>
     <item>
+      <title>0.1.2.5 (202611250518)</title>
+      <pubDate>Wed, 25 Nov 2026 05:21:13 +0000</pubDate>
+      <sparkle:version>202611250518</sparkle:version>
+      <sparkle:shortVersionString>0.1.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown"><![CDATA[
+- New box for your forms: "Email me special offers", so people can say yes to offers by email, and you see their answer with each response.
+- Settings has a Notifications page: get an email when new answers arrive, and choose where answers go.
+- Settings now shows your account and workspace on top, with the shared SRG+ Account and Workspace pages.
+- The app keeps itself up to date: it checks for a new version every hour, or choose SRG+ Forms > Check for Updates.
+]]></description>
+      <enclosure url="https://github.com/srgplus/srgplus-forms-macos/releases/latest/download/SRG-Plus-Forms.dmg" type="application/octet-stream" sparkle:edSignature="6uJpZkPjZPUvn5ZGmPoH3tCfIveyOSf7HS1k9/Jx6PeeM9YoCW3bGVOOAV/Cxu+4x8vYv/Yf/cT5AWgVKgO6Ag==" length="8829826" />
+    </item>
+    <item>
       <title>0.1.2.4 (202611211019)</title>
       <pubDate>Sat, 21 Nov 2026 10:24:01 +0000</pubDate>
       <sparkle:version>202611211019</sparkle:version>
